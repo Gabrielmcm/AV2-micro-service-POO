@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "eureka-server",
+			"path": "eureka-server"
+		},
+		{
+			"name": "zuul-server",
+			"path": "zuul-server"
+		},
+		{
+			"name": "config-server",
+			"path": "config-server"
+		},
+		{
+			"name": "config",
+			"path": "config"
+		},
+		{
+			"path": "..\\..\\Desafio POO\\Prova-POO\\aplicativos"
+		},
+		{
+			"path": "..\\..\\Desafio POO\\Prova-POO\\classes"
+		}
+	],
+	"settings": {}
+}
